@@ -1,1 +1,13 @@
-
+name: COVID-19-master
+title: COVID-19-master
+username:
+account: lailtc
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2154422
+bundleId: 3097270
+url: https://lalitc.shinyapps.io/COVID-19-master/
+when: 1588520577.14941
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: .RData|animation.R|covid19.gif|covid19.mp4|covid19_1.gif|data/covid19_data.zip|data/owid-covid-data.csv|data/time_series_covid19_confirmed_global.csv|data/time_series_covid19_deaths_global.csv|data/time_series_covid19_recovered_global.csv
